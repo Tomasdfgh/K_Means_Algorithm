@@ -7,3 +7,4 @@ The K Means Algorithm boils down to 3 fundamental steps:
 In this project, the first step is done by randomly picking n number of data points if the algorithm calls for n clusters, and assign the coordinates of each of those n clusters to be the same as the coordinate of the n data points. I created a 3D graph containing about 20 data points in 3 dimensions to illustrate the movements of the clusters.
 
 
+![Initializations](https://user-images.githubusercontent.com/86145397/196065120-e31e875d-97ef-4a68-9029-a77ea212761d.png)
