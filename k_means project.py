@@ -164,7 +164,6 @@ def k_means(data,k):
 					temporary.append(cens_cord[i][z])
 				stor_cord.append(temporary)
 				temporary = []
-			counter += 1
 
 		#---End of Terminating Conditions---#
 		
