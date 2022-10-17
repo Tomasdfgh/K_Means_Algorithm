@@ -13,3 +13,6 @@ It can be seen that there are three clusters and 3 centroids initialized in this
 
 Step two and three are done in a loop. Data points are being assigned to the closest centroid in step 2 and the centroids will then move towards the center of the data points it is assigned to. Example can be seen below
 ![Movement](https://user-images.githubusercontent.com/86145397/196065502-de1cfa40-1a0d-4c2f-979a-a245d8b51c59.png)
+
+Finally this step will be repeated until the centroids have rested in their final positions and the clusters are clearly being defined. Such as below
+![Figure_1](https://user-images.githubusercontent.com/86145397/196065549-f739a94b-60b9-4597-aecf-4939f8e5f766.png)
