@@ -16,3 +16,6 @@ Step two and three are done in a loop. Data points are being assigned to the clo
 
 Finally this step will be repeated until the centroids have rested in their final positions and the clusters are clearly being defined. Such as below
 ![Figure_1](https://user-images.githubusercontent.com/86145397/196065549-f739a94b-60b9-4597-aecf-4939f8e5f766.png)
+
+
+This example is only for data points in 3 dimensions. The algorithm that I designed can be generalized up to n dimensions. In another word, the data points that have as many dimensions as neccessary.
