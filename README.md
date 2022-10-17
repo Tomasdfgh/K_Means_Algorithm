@@ -24,3 +24,5 @@ This example is only for data points in 3 dimensions. The algorithm that I desig
 
 
 ![Distortions vs  Number of Centroids Final Final](https://user-images.githubusercontent.com/86145397/196065777-a6c1c4a9-6f4f-46de-83c2-140232d031db.png)
+
+Using the elbow rule method, I can determine that the correct number of centroids should be 4.
