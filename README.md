@@ -8,4 +8,5 @@ In this project, the first step is done by randomly picking n number of data poi
 
 
 ![Initializations](https://user-images.githubusercontent.com/86145397/196065120-e31e875d-97ef-4a68-9029-a77ea212761d.png)
+
 It can be seen that there are three clusters and 3 centroids initialized in this first step. one in the far left and 2 closed together in the middle. All three centroids share the same coordinates as one of the data points.
