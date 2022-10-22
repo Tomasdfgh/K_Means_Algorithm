@@ -1,3 +1,5 @@
+# K Means Algorithm
+
 The K Means Algorithm boils down to 3 fundamental steps:
 
 1. Cluster Initialization
