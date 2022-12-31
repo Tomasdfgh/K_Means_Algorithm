@@ -31,6 +31,22 @@ The code for this algorithm simply follows the steps indicated in the overview s
 
 ## Result
 
+### 2D Trial
+
+For the 2D dataset, I created a set of 12 data points that all exist in 2 dimensions. A 2D graph to illustrate the data points and the intial centroids location can be seen below
+
+![F1_2D](https://user-images.githubusercontent.com/86145397/210154302-276c8fdf-7d12-4666-9cb5-c2af20ae34d8.png)
+
+The data points are in blue and the centroids are the red x's. It is obvious that there are 2 clusters and now the objective of the centroids will be to detect the 2 clusters. Step 2 and 3 are now repeated in a loop until the clusters stop updating. The next iterations can be seen below
+
+![F2_2D](https://user-images.githubusercontent.com/86145397/210154486-56ad3c59-609a-4d8c-83f6-c3fe4e7a82b3.png)
+
+Visually, it can be seen that the centroids have begin to migrate towards their clusters. At the next iteration, the centroids will rest in their final destination
+
+![F3_2D](https://user-images.githubusercontent.com/86145397/210154536-120f6ab5-4fcf-4662-84c4-36df7942e210.png)
+
+The algorithm is now terminated and the clusters have clearly been defined.
+
 ### 3D Trial
 
 I created a dataset which contains about 20 data points that all exists in 3 dimensions. A 3D graph to illustrate the movements of the clusters can be seen below
